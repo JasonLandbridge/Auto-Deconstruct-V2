@@ -1,0 +1,14 @@
+{
+"name": "AutoDeconstruct_",
+"version": "0.1.0",
+"factorio_version":"1.1",
+"title": "Auto Deconstruct V2",
+"author": "Xiomax",
+"homepage": "",
+"dependencies":[
+	"stdlib > 0.4.3",
+	"flib >= 0.7.0",
+	"! AutoDeconstruct >= 0.0.1"
+ ],
+"description": "This mod marks many configurable entites for deconstruction! Currently works with mines that don't have ore left, meteors from Space Exploration and crashed rockets. Improved version on the orignal auto-deconstruct"
+}
